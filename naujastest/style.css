@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+button{
+    background: transparent;
+    border: none;
+    outline: none;
+}
+input{
+    outline: none;
+}
+.header{
+    background-color: cadetblue;
+}
